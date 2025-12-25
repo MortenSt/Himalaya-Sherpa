@@ -1,0 +1,12 @@
+# Ignorer hemmeligheter
+.env
+.DS_Store
+
+# Ignorer Python-cache og midlertidige filer
+__pycache__/
+*.pyc
+
+# Ignorer eventuelle virtuelle miljøer
+.venv/
+env/
+venv/
